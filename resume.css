@@ -1,0 +1,13 @@
+.skill-bar
+{
+background-color: #bdc9ea;
+border-radius: 16px;
+}
+.progress-bar
+{
+padding:0.1em 16px;
+border-radius: 16px;
+text-align: center;
+color: #fff;
+background-color: #4b4fe2;
+}
